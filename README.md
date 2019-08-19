@@ -1,8 +1,8 @@
 # hello-world
 practice repo
 
-Learning GitHub
-*Created my first repo in August.* 
+1. Learning GitHub
+1. *Created my first repo in August.* 
 
 Once quoth: 
 
